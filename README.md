@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2>Hi, I'm Arsil Zunzunia!</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Information Technology Engineering Student at Mumbai University. 
+</em></p>
+<p><em>Software Development Intern at Koshex. 
+</em></p>
 
-<!--
-**arsil-z/arsil-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: ArsilZunzunia](https://img.shields.io/badge/-arsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsil-zunzunia/)](https://www.linkedin.com/in/arsil-zunzunia/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const arsil = {
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript", "Php"],
+    askMeAbout: ["software dev", "back-end dev", "front-end dev"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS3", "Bootstrap"],
+        backEnd: ["Django", "Flask"],
+        databases: ["Postgresql", "sqlite"],
+    },
+
+};
+```
+
+<em><b>Final Year Information Technology Engineering student passionate about Software Development. Interested in Full Stack Development and learning latest technologies, trends in Computer Science. </b> 😊</em>
