@@ -25,12 +25,12 @@ const arsil = {
                 Company: "Fossee, IIT Bombay", 
                 Duration: "2 months (Nov 2019 - Jan 2020)", 
                 Technologies: "Python & PYQT5"
-                },
+            },
         internship: { 
                 Company: "Koshex", 
                 Duration: "3 months (Sep 2020 - Dec 2020)", 
                 Technologies: "Python, Flask, PostgreSQL, Bootstrap" 
-                },
+            },
     }
 
 };
