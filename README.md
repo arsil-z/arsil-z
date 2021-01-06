@@ -16,14 +16,14 @@ const arsil = {
     code: ["Python", "JavaScript", "Php"],
     askMeAbout: ["software dev", "backEnd dev", "frontEnd dev"],
     technologies: {
-        frontEnd: ["HTML5", "CSS3", "Bootstrap"],
+        frontEnd: ["HTML5", "CSS3", "Bootstrap", "Angular"],
         backEnd: ["Django", "Flask"],
-        databases: ["Postgresql", "sqlite"],
+        databases: ["PostgreSQL", "sqlite"],
     },
     experience: {
         internship: { 
             Company: "Koshex", 
-            Duration: "3 months (Sep 2020 - Present)", 
+            Duration: "3.5 months (Sep 2020 - Dec 2020)", 
             Technologies: "Python, Flask, PostgreSQL, Bootstrap" 
         },
         internship: { 
