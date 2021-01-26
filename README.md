@@ -13,25 +13,27 @@
 ```javascript
 const arsil = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "Php"],
+    code: ["Python", "JavaScript"],
     askMeAbout: ["software dev", "backEnd dev", "frontEnd dev"],
     technologies: {
         frontEnd: ["HTML5", "CSS3", "Bootstrap", "Angular"],
         backEnd: ["Django", "Flask"],
-        databases: ["PostgreSQL", "sqlite"],
+        databases: ["PostgreSQL"],
     },
-    experience: {
-        internship: { 
+    experience: [
+        {
             Company: "Koshex", 
+            Position: "Software Development Intern",
             Duration: "3.5 months (Sep 2020 - Dec 2020)", 
-            Technologies: "Python, Flask, PostgreSQL, Bootstrap" 
+            Technologies: "Python, Flask, JavaScript, Angular, PostgreSQL, Bootstrap" 
         },
-        internship: { 
+        {
             Company: "Fossee, IIT Bombay", 
+            Position: "Software Development Intern",
             Duration: "2 months (Nov 2019 - Jan 2020)", 
             Technologies: "Python & PYQT5"
         },
-    }
+    ]
 };
 ```
 
