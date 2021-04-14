@@ -24,6 +24,12 @@ const arsil = {
         {
             Company: "Koshex", 
             Position: "Software Development Intern",
+            Duration: "2 months (Feb 2021 - Present)", 
+            Technologies: "Python, Flask, PostgreSQL, AWS, CI/CD" 
+        },
+        {
+            Company: "Koshex", 
+            Position: "Software Development Intern",
             Duration: "3.5 months (Sep 2020 - Dec 2020)", 
             Technologies: "Python, Flask, JavaScript, Angular, PostgreSQL, Bootstrap" 
         },
