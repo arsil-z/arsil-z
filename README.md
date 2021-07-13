@@ -1,12 +1,12 @@
 <h2>Hi, I'm Arsil Zunzunia!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Information Technology Engineering Student at Mumbai University. 
+<p><em>Information Technology Engineering Graduate. 
 </em></p>
 <p><em>Software Development Intern at Koshex. 
 </em></p>
 
 [![Linkedin: ArsilZunzunia](https://img.shields.io/badge/-arsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsil-zunzunia/)](https://www.linkedin.com/in/arsil-zunzunia/)
-[![HackerRank: ArsilZunzunia](https://img.shields.io/badge/-arsilzunzunia-green?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/competethecode)](https://www.hackerrank.com/competethecode)
+[![HackerRank: ArsilZunzunia](https://img.shields.io/badge/-arsilzunzunia-green?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/arsilzunzunia)](https://www.hackerrank.com/arsilzunzunia)
 
 ### A little more about me...  
 
@@ -17,7 +17,7 @@ const arsil = {
     askMeAbout: ["software dev", "backEnd dev", "frontEnd dev"],
     technologies: {
         frontEnd: ["HTML5", "CSS3", "Bootstrap", "Angular"],
-        backEnd: ["Django", "Flask"],
+        backEnd: ["Flask", "REST APIs"],
         databases: ["PostgreSQL"],
     },
     experience: [
@@ -25,7 +25,7 @@ const arsil = {
             Company: "Koshex", 
             Position: "Software Development Intern",
             Duration: "2 months (Feb 2021 - Present)", 
-            Technologies: "Python, Flask, PostgreSQL, AWS, CI/CD" 
+            Technologies: "Python, Flask, PostgreSQL, AWS, CI/CD, OAuth" 
         },
         {
             Company: "Koshex", 
@@ -43,4 +43,4 @@ const arsil = {
 };
 ```
 
-<em><b>Final Year Information Technology Engineering student passionate about Software Development. Interested in Full Stack Development and learning latest technologies, trends in Computer Science. </b> 😊</em>
+<em><b>Information Technology Engineering graduate passionate about Software Development. Interested in Full Stack Development and learning latest technologies, trends in Computer Science. </b> 😊</em>
