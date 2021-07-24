@@ -1,8 +1,7 @@
 <h2>Hi, I'm Arsil Zunzunia!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Information Technology Engineering Graduate. 
 </em></p>
-<p><em>Software Development Intern at Koshex. 
+<p><em>Software Development Engineer 1 at Koshex, with development experience of 1 Year.  
 </em></p>
 
 [![Linkedin: ArsilZunzunia](https://img.shields.io/badge/-arsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsil-zunzunia/)](https://www.linkedin.com/in/arsil-zunzunia/)
@@ -23,8 +22,14 @@ const arsil = {
     experience: [
         {
             Company: "Koshex", 
+            Position: "Software Development Engineer 1",
+            Duration: "(Jul 2021 - Present)", 
+            Technologies: "Python, Flask, PostgreSQL, REST APIs" 
+        },
+        {
+            Company: "Koshex", 
             Position: "Software Development Intern",
-            Duration: "2 months (Feb 2021 - Present)", 
+            Duration: "6 months (Feb 2021 - Jul 2021)", 
             Technologies: "Python, Flask, PostgreSQL, AWS, CI/CD, OAuth" 
         },
         {
@@ -43,4 +48,4 @@ const arsil = {
 };
 ```
 
-<em><b>Information Technology Engineering graduate passionate about Software Development. Interested in Full Stack Development and learning latest technologies, trends in Computer Science. </b> 😊</em>
+<em><b>Interested in Full Stack Development and learning latest technologies, trends in Computer Science. </b> 😊</em>
