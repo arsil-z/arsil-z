@@ -1,7 +1,7 @@
 <h2>Hi, I'm Arsil Zunzunia!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </em></p>
-<p><em>Software Development Engineer 1 at Koshex, with development experience of 1 Year.  
+<p><em>Software Engineer, with development experience of 1 Year.  
 </em></p>
 
 [![Linkedin: ArsilZunzunia](https://img.shields.io/badge/-arsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsil-zunzunia/)](https://www.linkedin.com/in/arsil-zunzunia/)
@@ -23,7 +23,7 @@ const arsil = {
         {
             Company: "Koshex", 
             Position: "Software Development Engineer 1",
-            Duration: "(Jul 2021 - Present)", 
+            Duration: "(Jul 2021 - Sep 2021)", 
             Technologies: "Python, Flask, PostgreSQL, REST APIs" 
         },
         {
