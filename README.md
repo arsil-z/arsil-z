@@ -1,7 +1,7 @@
 <h2>Hi, I'm Arsil Zunzunia!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </em></p>
-<p><em>Software Engineer, with development experience of 1 Year.  
+<p><em>Software Engineer, with development experience in backend.  
 </em></p>
 
 [![Linkedin: ArsilZunzunia](https://img.shields.io/badge/-arsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arsil-zunzunia/)](https://www.linkedin.com/in/arsil-zunzunia/)
@@ -12,14 +12,19 @@
 ```javascript
 const arsil = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript"],
-    askMeAbout: ["software dev", "backEnd dev", "frontEnd dev"],
+    code: ["Python", "GoLang"],
+    askMeAbout: ["software dev", "backEnd dev"],
     technologies: {
-        frontEnd: ["HTML5", "CSS3", "Bootstrap", "Angular"],
         backEnd: ["Flask", "REST APIs"],
-        databases: ["PostgreSQL"],
+        databases: ["PostgreSQL", "MySQL"],
     },
     experience: [
+        {
+            Company: "Fisdom", 
+            Position: "Software Development Engineer 1",
+            Duration: "(Sep 2021 - Present)", 
+            Technologies: "Python, Flask, PostgreSQL, REST APIs, GoLang, GCP" 
+        },
         {
             Company: "Koshex", 
             Position: "Software Development Engineer 1",
