@@ -1,5 +1,5 @@
 <h2>Hi, I'm Arsil Zunzunia!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 </em></p>
 <p><em>Software Engineer, with development experience in backend.  
 </em></p>
@@ -21,8 +21,14 @@ const arsil = {
     experience: [
         {
             Company: "Fisdom", 
+            Position: "Software Development Engineer 2",
+            Duration: "(Oct 2023 - Present)", 
+            Technologies: "Python, Flask, PostgreSQL, REST APIs, GoLang, GCP" 
+        },
+        {
+            Company: "Fisdom", 
             Position: "Software Development Engineer 1",
-            Duration: "(Sep 2021 - Present)", 
+            Duration: "(Sep 2021 - Oct 2023)", 
             Technologies: "Python, Flask, PostgreSQL, REST APIs, GoLang, GCP" 
         },
         {
