@@ -15,14 +15,21 @@ const arsil = {
     code: ["Python", "GoLang"],
     askMeAbout: ["software dev", "backEnd dev"],
     technologies: {
-        backEnd: ["Flask", "REST APIs"],
-        databases: ["PostgreSQL", "MySQL"],
+        backEnd: ["Flask", "FastAPI", "REST APIs"],
+        databases: ["PostgreSQL", "MySQL", "Redis"],
+        cloud: ["Google Cloud Platform"]
     },
     experience: [
         {
+            Company: "Fynd", 
+            Position: "Software Development Engineer 2",
+            Duration: "(Jul 2024 - Present)", 
+            Technologies: "Python, Fast API, PostgreSQL, REST APIs, GCP" 
+        },
+        {
             Company: "Fisdom", 
             Position: "Software Development Engineer 2",
-            Duration: "(Oct 2023 - Present)", 
+            Duration: "(Oct 2023 - Jul 2024)", 
             Technologies: "Python, Flask, PostgreSQL, REST APIs, GoLang, GCP" 
         },
         {
